@@ -1,4 +1,4 @@
-
+alert("Classic Pacman Game \nInstructions: Use keys W,A,S,D for movement. Enjoy!!!")
 
 const canvas = document.getElementById("game");
 const context = canvas.getContext('2d');
